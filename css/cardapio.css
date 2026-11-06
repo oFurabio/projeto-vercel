@@ -28,3 +28,26 @@
     font-size: large;
     margin: auto;
 }
+
+.cardapioConteudo {
+    display: flex;
+    align-items: flex-start;
+}
+
+.listaCategorias {
+    display: flex;
+    flex-direction: column;
+}
+
+.categoriaCabecalho {
+    border-bottom: 3px solid var(--cor-azul);
+}
+
+.listaItens {
+    display: flex;
+    gap: 20px;
+}
+
+.item {
+    width: 50%;
+}
