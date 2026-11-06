@@ -50,6 +50,7 @@ a {
   font-family: "Fonte Titulo";
   font-size: 2rem;
   font-weight: lighter;
+  margin: 0 auto;
 }
 
 .logoContainer img {
